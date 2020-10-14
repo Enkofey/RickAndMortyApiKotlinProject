@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_character"
+        android:icon="@drawable/character_icon"
+        android:title="Character"/>
+    <item android:id="@+id/nav_episode"
+        android:icon="@drawable/episode_icon"
+        android:title="Episode"/>
+    <item android:id="@+id/nav_account"
+        android:icon="@drawable/ic_baseline_account_box_24"
+        android:title="Account"
+        />
+</menu>
